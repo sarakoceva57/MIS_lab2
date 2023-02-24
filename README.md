@@ -1,4 +1,4 @@
-# flutter_application_1
+# MIS Lab2
 
 A new Flutter project.
 
